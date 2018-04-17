@@ -13,3 +13,4 @@
     removeLast;
     get;
     
+### the circular array implementation also has dynamic resizing implemented as an optimization 
